@@ -1,0 +1,63 @@
+
+@charset "utf-8";
+/*視窗底色設定*/
+body{
+   background-color:#fbf9cc;
+}
+/*連結顏色設定*/
+a{
+    color: aqua;
+}
+
+a:hover{
+    color: #f73d0e;
+}
+a:visited{
+    color: #126318;
+}
+/*頁面標題設定*/
+h1{
+    color: #031803;
+    text-align: center;
+    font-size: 250%;
+}
+/*次標題設定*/
+h2{
+    color: #126318;
+    border: #030303 2px dotted;
+    border-left:#d8c40e 10px solid;
+    padding: 5px 20px;
+    margin-bottom: 0;
+}
+/*內容標題設定*/
+dt{
+    font-weight:bold;
+}
+/*引言區塊設定*/
+#lead{
+    border-top:#b6d1e7 1px dotted;
+    border-bottom: #b6d1e7 1px dotted;
+    padding: 15px;
+    text-align: center;
+
+}	
+/*「更多(回景點)介紹」連結設定*/					
+
+/*區塊邊界設定*/	 
+    
+/*表格設定*/				
+
+/*輸入表單設定*/				
+			
+/*按鈕設定*/		
+			
+			
+/*按鈕基本樣式*/		
+
+/*滑鼠移到按鈕時*/		
+
+/*按下按鈕的瞬間*/			
+
+/*依按鈕功能區分顏色*/		
+
+
